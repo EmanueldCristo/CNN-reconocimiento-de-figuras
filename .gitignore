@@ -1,0 +1,16 @@
+/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.jpg
+# Ignorar la carpeta venv (entorno virtual)
+venv/
+
+# No ignorar estos archivos y carpetas
+!/src/
+!/README.md
+!/main.py
+!/.gitignore
+!/Requirements.txt
+
+
