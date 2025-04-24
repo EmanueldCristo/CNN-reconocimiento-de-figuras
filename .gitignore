@@ -4,7 +4,7 @@
 *.pyd
 *.jpg
 # Ignorar la carpeta venv (entorno virtual)
-.venv
+.venv/
 
 # No ignorar estos archivos y carpetas
 !/src/
